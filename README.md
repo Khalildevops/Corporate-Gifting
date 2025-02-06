@@ -20,6 +20,7 @@ Tables:
 Form Layout:
 
 <table> 
+   <th>Employee</th>
          
    <tr><td>Employee Number</td></tr>
    <tr><td>Employee Number</td></tr>
@@ -30,9 +31,8 @@ Form Layout:
    <tr><td>Employee Number</td></tr>
    <tr><td>Employee Number</td></tr>
    <tr><td>Employee Number</td></tr>
-   <td>User ID<td/>
+   <tr><td>Employee Number</td></tr>
 
-   </tr>
    
 </table>
 
