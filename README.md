@@ -21,19 +21,16 @@ Form Layout:
 
       Employee Table
 <table> 
+   
    <tr>Employee Number</tr>
    <tr>Email ID</tr>
    <tr>User ID<tr/>
-</tr>
-   <tr>Mobile Number
-</tr>
-   <tr>First Name
-</tr>
-   <tr></tr>
-   <tr></tr>
 
    
 </table>
+
+
+
 Email ID
 
 User ID
