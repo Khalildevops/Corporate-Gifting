@@ -19,7 +19,7 @@ Tables:
 
 Form Layout:
 
-   Employee
+<strong>Employee</strong>
 
 <table> 
    
