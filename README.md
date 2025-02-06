@@ -4,13 +4,13 @@
 </div> 
 <div align="center"> <h3>Application Name: Corporate Gifting [Scoped] </h3> </div>
 
-<div align="center"> <h3> Description: Corporate Gifting application will be used by the departments of an organisation where managers can appreciate their mentees in the form of E-Voucher with a predefined amount which will be added to the Employee e-wallet. Each employee can order the voucher based on his wallet balance and number of vouchers.The custom application is configured using App Engine Studio, Creating tables and their fields, creating Groups, Configuring Form Layout and List Layout, and creating some dump data for these tables which will help during the whole project implementation.</h3> </div>
+<div align="center"> <h4> Description: Corporate Gifting application will be used by the departments of an organisation where managers can appreciate their mentees in the form of E-Voucher with a predefined amount which will be added to the Employee e-wallet. Each employee can order the voucher based on his wallet balance and number of vouchers.The custom application is configured using App Engine Studio, Creating tables and their fields, creating Groups, Configuring Form Layout and List Layout, and creating some dump data for these tables which will help during the whole project implementation.</h4> </div>
 
 
 
 Tables
 
-<h3> Employee (Extend from User table) – Employees who will be having E-wallet balance and can raise Voucher requests for himself. Also, Employees at Manager or above level can raise E-Wallet requests for him mentees to add an amount to their wallet.
+<h4> Employee (Extend from User table) – Employees who will be having E-wallet balance and can raise Voucher requests for himself. Also, Employees at Manager or above level can raise E-Wallet requests for him mentees to add an amount to their wallet.
   
 E-Wallet Request by Managers (Extend from Task table)
 
@@ -21,7 +21,7 @@ Groups
 <li>Shopping/Sports-Wear Voucher Agents - HR Agents who would be assigned to the Shopping vouchers request submitted by the Managers to help the Employee provide the vouchers offline.</li>
 <li>Food Delivery Voucher Agents - HR Agents who would be assigned to the Food vouchers request submitted by the Managers to help the Employee provide the vouchers offline.</li>
 
-</ol> </h3>
+</ol> </h4>
 
 <u>Form Layout</u>
 
