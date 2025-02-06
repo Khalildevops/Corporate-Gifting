@@ -5,14 +5,14 @@
 <div align="center"> <p>
 <h2>Application Name: Corporate Gifting [Scoped] </h2>
 
-<div align="center"> <2>Managers of department on an organization can reward their employees by E-Voucher </h2> </div>
+<div align="center"> <h2>Managers of department on an organization can reward their employees by E-Voucher </h2> </div>
 
-<div align="center">Branch Description: 
+<div align="center"> <h3>Branch Description: 
 This custom application is configured using App Engine Studio, Creating tables and their fields, creating Groups, Configuring Form Layout and List Layout, and creating some dump data for these tables which will help during the whole project implementation.
  
 Description: Corporate Gifting application will be used by the departments of an organisation where managers can appreciate their mentees in the form of E-Voucher with a predefined amount which will be added to the Employee e-wallet. Each employee can order the voucher based on his wallet balance and number of vouchers.
-</div>
-</p>
+</h3> </div>
+
 </div>
 
 <div align="left"> <h3>
