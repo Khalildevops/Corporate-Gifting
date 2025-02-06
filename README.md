@@ -13,9 +13,9 @@
         <th>Comment</th>
     </tr>
     <tr>
-     <td>Employee Number</td>
-     <td>Auto-generated Number</td>
-     <td>Prefix - EMP</td>
+        <td>Employee Number</td>
+        <td>Auto-generated Number</td>
+        <td>Prefix - EMP</td>
     </tr>
 </table> 
 
