@@ -2,7 +2,7 @@
 
 <div align="center"> <img src="imageedit_3_6496006665.png"/>
 </div> 
-<div align="center"> <h1>Application Name: Corporate Gifting [Scoped] </h1> </div>
+<div align="center"> <h3>Application Name: Corporate Gifting [Scoped] </h3> </div>
 
 <div align="center"> <h2>Managers of department on an organization can reward their employees by E-Voucher </h2> </div>
 
