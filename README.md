@@ -6,6 +6,7 @@
 
 <div align="center"> <h4> Description: Corporate Gifting application will be used by the departments of an organisation where managers can appreciate their mentees in the form of E-Voucher with a predefined amount which will be added to the Employee e-wallet. Each employee can order the voucher based on his wallet balance and number of vouchers.The custom application is configured using App Engine Studio, Creating tables and their fields, creating Groups, Configuring Form Layout and List Layout, and creating some dump data for these tables which will help during the whole project implementation.</h4> </div>
 
+<body>
 <table border="1" align="right>
     <tr>
         <th>Field Name</th>
@@ -18,7 +19,7 @@
         <td>Prefix - EMP</td>
     </tr>
 </table> 
-
+    </body>
 
 
 
