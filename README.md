@@ -23,7 +23,7 @@ Form Layout:
 <table> 
    <tr>Employee Number</tr>
    <tr>Email ID</tr>
-   <td>User ID</
+   <tr>User ID<tr/>
 </tr>
    <tr>Mobile Number
 </tr>
