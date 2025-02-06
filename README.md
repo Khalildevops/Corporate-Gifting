@@ -14,12 +14,20 @@
     </tr>
 </table> 
 
+table>
+    <tr>
+        <td>Employee Number</td>
+        <td>Auto-generated Number</td>
+        <td>Prefix - EMP</td>
+    </tr>
+</table> 
 
-Employee Number
 
-Auto-generated Number.
 
-Prefix - EMP
+
+
+
+
 
 E-Wallet Balance
 
