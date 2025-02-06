@@ -14,7 +14,7 @@
     </tr>
 </table> 
 
-table>
+<table>
     <tr>
         <td>Employee Number</td>
         <td>Auto-generated Number</td>
