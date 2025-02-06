@@ -8,15 +8,21 @@
 
 
 
-<u>Tables</u>
+Tables
 
-<ol> <li><h6>1. Employee (Extend from User table) – Employees who will be having E-wallet balance and can raise Voucher requests for himself. Also, Employees at Manager or above level can raise E-Wallet requests for him mentees to add an amount to their wallet.</li>
-2. E-Wallet Request by Managers (Extend from Task table)
-3. E-Wallet HR Approver – People who must approve the E-Wallet request by the Manager before it is added to the employee E-Wallet.
-4. Commerce Voucher Agents – HR Agents who would be assigned to the E-Commerce vouchers request submitted by the Managers to help the Employee provide the vouchers offline.
-Shopping/Sports-Wear Voucher Agents - HR Agents who would be assigned to the Shopping vouchers request submitted by the Managers to help the Employee provide the vouchers offline.
-5.Food Delivery Voucher Agents - HR Agents who would be assigned to the Food vouchers request submitted by the Managers to help the Employee provide the vouchers offline.</h6>
+Employee (Extend from User table) – Employees who will be having E-wallet balance and can raise Voucher requests for himself. Also, Employees at Manager or above level can raise E-Wallet requests for him mentees to add an amount to their wallet.
+  
+E-Wallet Request by Managers (Extend from Task table)
+
+Groups
+<ol>
+<li>E-Wallet HR Approver – People who must approve the E-Wallet request by the Manager before it is added to the employee E-Wallet.</li>
+<li>ommerce Voucher Agents – HR Agents who would be assigned to the E-Commerce vouchers request submitted by the Managers to help the Employee provide the vouchers offline.</li>
+<li>Shopping/Sports-Wear Voucher Agents - HR Agents who would be assigned to the Shopping vouchers request submitted by the Managers to help the Employee provide the vouchers offline.</li>
+<li>Food Delivery Voucher Agents - HR Agents who would be assigned to the Food vouchers request submitted by the Managers to help the Employee provide the vouchers offline.</li>
+
 </ol>
+
 <u>Form Layout</u>
 
 <strong>Employee</strong>
