@@ -19,9 +19,10 @@ Tables:
 
 Form Layout:
 
+   Employee
+
 <table> 
-   <th>Employee</th>
-         
+   
    <tr><td>Employee Number</td></tr>
    <tr><td>Employee Number</td></tr>
    <tr><td>Employee Number</td></tr>
