@@ -19,7 +19,6 @@ Tables:
 
 Form Layout:
 
-      Employee Table
 <table> 
    
    <tr>Employee Number</tr>
