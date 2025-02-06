@@ -5,30 +5,8 @@
 <div align="center"> <h2>Application Name: Corporate Gifting [Scoped] </h2> </div>
 
 <div align="center"> <h4> Description: Corporate Gifting application will be used by the departments of an organisation where managers can appreciate their mentees in the form of E-Voucher with a predefined amount which will be added to the Employee e-wallet. Each employee can order the voucher based on his wallet balance and number of vouchers.The custom application is configured using App Engine Studio, Creating tables and their fields, creating Groups, Configuring Form Layout and List Layout, and creating some dump data for these tables which will help during the whole project implementation.</h4> </div>
-<body> 
-    <h1 style="green">GeeksforGeeks</h1> 
-  
-    <h2>HTML table align Attribute</h2> 
-  
-    <table border="1" align="left"> 
-        <caption>Author Details</caption> 
-  
-        <tr> 
-            <th>NAME</th> 
-            <th>AGE</th> 
-            <th>BRANCH</th> 
-        </tr> 
-        <tr> 
-            <td>BITTU</td> 
-            <td>22</td> 
-            <td>CSE</td> 
-        </tr> 
-        <tr> 
-            <td>RAM</td> 
-            <td>21</td> 
-            <td>ECE</td> 
-        </tr> 
-    </table> 
+
+<html>  
 </body> 
 <body>
 <table border="1" align="right>
@@ -44,7 +22,7 @@
     </tr>
 </table> 
     </body>
-
+    </html>
 
 
 
