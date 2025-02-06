@@ -6,21 +6,5 @@
 
 <div align="center"> <h4> Description: Corporate Gifting application will be used by the departments of an organisation where managers can appreciate their mentees in the form of E-Voucher with a predefined amount which will be added to the Employee e-wallet. Each employee can order the voucher based on his wallet balance and number of vouchers.The custom application is configured using App Engine Studio, Creating tables and their fields, creating Groups, Configuring Form Layout and List Layout, and creating some dump data for these tables which will help during the whole project implementation.</h4> </div>
 
-<style>
-      table { 
-       width: 100%; 
-       border-collapse: collapse;
-      }
- th, 
- td {
-  padding: 10px;
-  border: 1px solid #000;
- }
- .right-align {
-   text-align: right;
- }
- .center-align: center;
- }
- 
-</style>
+
 
