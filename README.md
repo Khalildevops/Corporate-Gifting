@@ -17,5 +17,46 @@ Tables:
    Shopping/Sports-Wear Voucher Agents - HR Agents who would be assigned to the Shopping vouchers request submitted by the Managers to help the Employee provide the vouchers offline.
       Food Delivery Voucher Agents - HR Agents who would be assigned to the Food vouchers request submitted by the Managers to help the Employee provide the vouchers offline.
 
+Form Layout:
+
+      Employee Table
+<table> 
+   <th>Employee Number</th>
+   <tr>Email ID</tr>
+   <tr>User ID
+</tr>
+   <tr>Mobile Number
+</tr>
+   <tr>First Name
+</tr>
+   <tr></tr>
+   <tr></tr>
+
+   
+</table>
+Email ID
+
+User ID
+
+Mobile Number
+
+First Name
+
+Career Level
+
+Last Name
+
+Project/Account
+
+Name
+
+Active
+
+Position Level
+
+Photo
+
+Manager
+
 
 
