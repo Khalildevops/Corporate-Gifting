@@ -8,14 +8,14 @@
 
 
 
-<u>Tables</u>:
+<u>Tables</u>
 
-1. Employee (Extend from User table) – Employees who will be having E-wallet balance and can raise Voucher requests for himself. Also, Employees at Manager or above level can raise E-Wallet requests for him mentees to add an amount to their wallet.
+<h6>1. Employee (Extend from User table) – Employees who will be having E-wallet balance and can raise Voucher requests for himself. Also, Employees at Manager or above level can raise E-Wallet requests for him mentees to add an amount to their wallet.
 2. E-Wallet Request by Managers (Extend from Task table)
 3. E-Wallet HR Approver – People who must approve the E-Wallet request by the Manager before it is added to the employee E-Wallet.
 4. Commerce Voucher Agents – HR Agents who would be assigned to the E-Commerce vouchers request submitted by the Managers to help the Employee provide the vouchers offline.
 Shopping/Sports-Wear Voucher Agents - HR Agents who would be assigned to the Shopping vouchers request submitted by the Managers to help the Employee provide the vouchers offline.
-5.Food Delivery Voucher Agents - HR Agents who would be assigned to the Food vouchers request submitted by the Managers to help the Employee provide the vouchers offline.
+5.Food Delivery Voucher Agents - HR Agents who would be assigned to the Food vouchers request submitted by the Managers to help the Employee provide the vouchers offline.</h6>
 
 <u>Form Layout</u>
 
