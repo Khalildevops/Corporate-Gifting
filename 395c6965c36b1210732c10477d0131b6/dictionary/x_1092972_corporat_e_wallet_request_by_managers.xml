@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6e92b96dc36b1210732c10477d01318c" extends="task" label="E-Wallet Request by Managers" max_length="40" name="x_1092972_corporat_e_wallet_request_by_managers" type="collection">
+        <element attributes="encode_utf8=false" label="Requested By (Manager)" max_length="32" name="requested_by_manager" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="submitted" label="Request Status" max_length="40" name="request_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Approval Requested" value="approval_requested"/>
+                <element inactive_on_update="false" label="Approved" value="approved"/>
+                <element inactive_on_update="false" label="Rejected " value="rejected"/>
+                <element inactive_on_update="false" label="Completed" value="completed"/>
+                <element inactive_on_update="false" label="Cancelled " value="cancelled"/>
+                <element inactive_on_update="false" label="Submitted" value="submitted"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Requested For (Employee)" max_length="32" name="requested_for_employee" reference="sys_user" type="reference"/>
+    </element>
+</database>
