@@ -8,7 +8,7 @@
 
 
 
-<strong>Tables</strong>:
+<u>Tables</u>:
 
 1. Employee (Extend from User table) – Employees who will be having E-wallet balance and can raise Voucher requests for himself. Also, Employees at Manager or above level can raise E-Wallet requests for him mentees to add an amount to their wallet.
 2. E-Wallet Request by Managers (Extend from Task table)
