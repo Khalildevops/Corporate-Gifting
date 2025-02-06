@@ -6,6 +6,7 @@ Application Description: Managers of department on an organization can reward th
 <div align="center"> <p>
 Application Name: Corporate Gifting [Scoped]
 
+
 Branch Description: 
 This custom application is configured using App Engine Studio, Creating tables and their fields, creating Groups, Configuring Form Layout and List Layout, and creating some dump data for these tables which will help during the whole project implementation.
  
@@ -14,7 +15,9 @@ Description: Corporate Gifting application will be used by the departments of an
 </p>
 </div>
 
-mployee (Extend from User table) – Employees who will be having E-wallet balance and can raise Voucher requests for himself. Also, Employees at Manager or above level can raise E-Wallet requests for him mentees to add an amount to their wallet.
+<div align="left"> <h3>
+ 
+Employee (Extend from User table) – Employees who will be having E-wallet balance and can raise Voucher requests for himself. Also, Employees at Manager or above level can raise E-Wallet requests for him mentees to add an amount to their wallet.
  
 
 Field Name
@@ -273,6 +276,8 @@ Assigned To
 
 Created
 
+</h3>
+</div>
  
 
 Data Preparation:
