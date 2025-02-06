@@ -10,15 +10,10 @@
     <tr>
         <td>Field Name</td>
         <td>Field Type</td>
-        <td>Comment/</td>
+        <td>Comment</td>
     </tr>
 </table> 
 
-Field Name
-
-Field Type
-
-Comment/
 
 Employee Number
 
