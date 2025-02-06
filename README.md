@@ -21,9 +21,9 @@ Form Layout:
 
       Employee Table
 <table> 
-   <th>Employee Number</th>
+   <tr>Employee Number</tr>
    <tr>Email ID</tr>
-   <tr>User ID
+   <td>User ID</
 </tr>
    <tr>Mobile Number
 </tr>
