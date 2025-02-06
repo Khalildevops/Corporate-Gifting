@@ -29,7 +29,6 @@ Form Layout:
    <tr><td>Last Name</td></tr>
    <tr><td>Name</td></tr>
    <tr><td>Postition Level</td></tr>
-   <tr><td>Position Level</td></tr>
    <tr><td>Manager</td></tr>
    <tr><td>Email ID</td></tr>
    <tr><td>Career Level</td></tr>
@@ -43,29 +42,9 @@ Form Layout:
 
 
 
-Email ID
 
-User ID
 
-Mobile Number
 
-First Name
-
-Career Level
-
-Last Name
-
-Project/Account
-
-Name
-
-Active
-
-Position Level
-
-Photo
-
-Manager
 
 
 
