@@ -4,22 +4,16 @@
 </div> 
 <div align="center"> <h2>Application Name: Corporate Gifting [Scoped] </h2> </div>
 
-<div align="center"> <h3>Managers of department on an organization can reward their employees by E-Voucher </h3> </div>
+<div align="center"> <h5> Description: Corporate Gifting application will be used by the departments of an organisation where managers can appreciate their mentees in the form of E-Voucher with a predefined amount which will be added to the Employee e-wallet. Each employee can order the voucher based on his wallet balance and number of vouchers.The custom application is configured using App Engine Studio, Creating tables and their fields, creating Groups, Configuring Form Layout and List Layout, and creating some dump data for these tables which will help during the whole project implementation.</h5> </div>
 
-<div align="center"> <h3> Branch Description: This custom application is configured using App Engine Studio, Creating tables and their fields, creating Groups, Configuring Form Layout and List Layout, and creating some dump data for these tables which will help during the whole project implementation.
- 
-Description: Corporate Gifting application will be used by the departments of an organisation where managers can appreciate their mentees in the form of E-Voucher with a predefined amount which will be added to the Employee e-wallet. Each employee can order the voucher based on his wallet balance and number of vouchers.
-</h3> </div>
+<div align="center"> <h4> Branch Description: This custom application is configured using App Engine Studio, Creating tables and their fields, creating Groups, Configuring Form Layout and List Layout, and creating some dump data for these tables which will help during the whole project implementation. </h4> </div>
 
-<div align="center"> <h3> Branch Description: This custom application is configured using App Engine Studio, Creating tables and their fields, creating Groups, Configuring Form Layout and List Layout, and creating some dump data for these tables which will help during the whole project implementation.
-Employee (Extend from User table) – Employees who will be having E-wallet balance and can raise Voucher requests for himself. Also, Employees at Manager or above level can raise E-Wallet requests for him mentees to add an amount to their wallet. </div>
- 
 
 Field Name
 
 Field Type
 
-Comment
+Comment/
 
 Employee Number
 
