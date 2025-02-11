@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>200</order>
+        <search_context_config display_value="Corporate Gifting - Workspace Search">0ec192d3d5675210e56d28fe3c6455c2</search_context_config>
+        <source display_value="Corporate Gifting - x_1092972_corporat_employee">a0d156d3c3675210732c10477d0131f3</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-11 13:15:57</sys_created_on>
+        <sys_id>6cd156d3c3675210732c10477d0131fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_6cd156d3c3675210732c10477d0131fa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-11 13:15:57</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>

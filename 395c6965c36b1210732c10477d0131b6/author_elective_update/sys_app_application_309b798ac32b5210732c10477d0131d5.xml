@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint>All CG Employess</hint>
+        <name/>
+        <order>100</order>
+        <roles>x_1092972_corporat._employee.user,itil</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-07 14:27:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>309b798ac32b5210732c10477d0131d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All Employees</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope>
+        <sys_update_name>sys_app_application_309b798ac32b5210732c10477d0131d5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-07 14:27:23</sys_updated_on>
+        <title>All Employees</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</application>
+        <file_path/>
+        <instance_id>59cc7715dbc58654ebdd2a5913961949</instance_id>
+        <instance_name>dev244916</instance_name>
+        <name>sys_app_application_309b798ac32b5210732c10477d0131d5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint>All CG Employess</hint><name/><order>100</order><roles>x_1092972_corporat._employee.user,itil</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-07 14:27:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>309b798ac32b5210732c10477d0131d5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>All Employees</sys_name><sys_overrides/><sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package><sys_policy/><sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope><sys_update_name>sys_app_application_309b798ac32b5210732c10477d0131d5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-07 14:27:23</sys_updated_on><title>All Employees</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>1406181089</payload_hash>
+        <record_name>All Employees</record_name>
+        <reverted_from/>
+        <source>b449b1a5c3ab1210732c10477d01315f</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-07 14:27:23</sys_created_on>
+        <sys_id>c0dbf94ac32b5210732c10477d0131df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>194e0cee7fe0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-07 14:27:23</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>c4dbf94a762b52100e9d6a1b2ea337de</update_guid>
+        <update_guid_history>c4dbf94a762b52100e9d6a1b2ea337de:1406181089</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="All Employees">6e0e390ec32b5210732c10477d0131f5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-07 14:37:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>332ec3d0444e4c6c9f9557dca09eb944</sys_id>
+        <sys_metadata>309b798ac32b5210732c10477d0131d5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All Employees</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope>
+        <sys_scope_delete display_value="">308a682f087f4a73915c51ab438a5329</sys_scope_delete>
+        <sys_update_name>sys_app_application_309b798ac32b5210732c10477d0131d5</sys_update_name>
+        <sys_update_version display_value="sys_app_application_309b798ac32b5210732c10477d0131d5">c0dbf94ac32b5210732c10477d0131df</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-07 14:37:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>E-Commerce Voucher Agents – HR Agents who would be assigned to the E-Commerce vouchers request submitted by the Managers to help the Employee provide the vouchers offline.</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1092972_corporat.e-commerce_hr_user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>e-commerce_hr_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-07 13:13:16</sys_created_on>
+        <sys_id>8a8a2982c3e75210732c10477d01310e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_1092972_corporat.e-commerce_hr_user</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope>
+        <sys_update_name>sys_user_role_8a8a2982c3e75210732c10477d01310e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-07 13:14:17</sys_updated_on>
+    </sys_user_role>
+</record_update>

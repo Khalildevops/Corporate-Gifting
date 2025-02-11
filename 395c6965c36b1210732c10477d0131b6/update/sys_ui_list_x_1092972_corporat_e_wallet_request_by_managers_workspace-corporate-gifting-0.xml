@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_1092972_corporat_e_wallet_request_by_managers" version="2" view="workspace-corporate-gifting-0">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_1092972_corporat_e_wallet_request_by_managers" element="NULL" name="x_1092972_corporat_e_wallet_request_by_managers" parent="NULL" relationship="NULL" sys_domain="global" view="02c192d32167521090037bf1c2df59c2">91d196d3c3675210732c10477d0131f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-11 13:16:00</sys_created_on>
+            <sys_id>95d196d3c3675210732c10477d0131f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-11 13:16:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>requested_by_manager</element>
+            <list_id display_value="x_1092972_corporat_e_wallet_request_by_managers" element="NULL" name="x_1092972_corporat_e_wallet_request_by_managers" parent="NULL" relationship="NULL" sys_domain="global" view="02c192d32167521090037bf1c2df59c2">91d196d3c3675210732c10477d0131f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-11 13:16:00</sys_created_on>
+            <sys_id>9dd196d3c3675210732c10477d0131f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-11 13:16:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>requested_for_employee</element>
+            <list_id display_value="x_1092972_corporat_e_wallet_request_by_managers" element="NULL" name="x_1092972_corporat_e_wallet_request_by_managers" parent="NULL" relationship="NULL" sys_domain="global" view="02c192d32167521090037bf1c2df59c2">91d196d3c3675210732c10477d0131f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-11 13:16:00</sys_created_on>
+            <sys_id>91d196d3c3675210732c10477d0131f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-11 13:16:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>request_status</element>
+            <list_id display_value="x_1092972_corporat_e_wallet_request_by_managers" element="NULL" name="x_1092972_corporat_e_wallet_request_by_managers" parent="NULL" relationship="NULL" sys_domain="global" view="02c192d32167521090037bf1c2df59c2">91d196d3c3675210732c10477d0131f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-11 13:16:00</sys_created_on>
+            <sys_id>95d196d3c3675210732c10477d0131f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-11 13:16:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assignment_group</element>
+            <list_id display_value="x_1092972_corporat_e_wallet_request_by_managers" element="NULL" name="x_1092972_corporat_e_wallet_request_by_managers" parent="NULL" relationship="NULL" sys_domain="global" view="02c192d32167521090037bf1c2df59c2">91d196d3c3675210732c10477d0131f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-11 13:16:00</sys_created_on>
+            <sys_id>99d196d3c3675210732c10477d0131f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-11 13:16:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="x_1092972_corporat_e_wallet_request_by_managers" element="NULL" name="x_1092972_corporat_e_wallet_request_by_managers" parent="NULL" relationship="NULL" sys_domain="global" view="02c192d32167521090037bf1c2df59c2">91d196d3c3675210732c10477d0131f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-11 13:16:00</sys_created_on>
+            <sys_id>9dd196d3c3675210732c10477d0131f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-11 13:16:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_1092972_corporat_e_wallet_request_by_managers" element="NULL" name="x_1092972_corporat_e_wallet_request_by_managers" parent="NULL" relationship="NULL" sys_domain="global" view="02c192d32167521090037bf1c2df59c2">91d196d3c3675210732c10477d0131f7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-11 13:16:00</sys_created_on>
+            <sys_id>91d196d3c3675210732c10477d0131fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-11 13:16:00</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_1092972_corporat_e_wallet_request_by_managers</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-11 13:16:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>91d196d3c3675210732c10477d0131f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1092972_corporat_e_wallet_request_by_managers</sys_name>
+            <sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope>
+            <sys_update_name>sys_ui_list_x_1092972_corporat_e_wallet_request_by_managers_workspace-corporate-gifting-0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-11 13:16:00</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Corporate Gifting 0" name="workspace-corporate-gifting-0">02c192d32167521090037bf1c2df59c2</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
