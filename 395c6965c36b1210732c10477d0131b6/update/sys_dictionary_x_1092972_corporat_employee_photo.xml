@@ -2,7 +2,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="photo" table="x_1092972_corporat_employee">
         <active>true</active>
         <array>false</array>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation/>
         <choice>0</choice>
