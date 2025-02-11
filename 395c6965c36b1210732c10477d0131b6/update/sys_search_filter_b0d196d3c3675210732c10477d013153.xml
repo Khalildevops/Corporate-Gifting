@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
     <sys_search_filter action="INSERT_OR_UPDATE">
         <active>true</active>
-        <ais_search_source display_value="">74d196d3c3675210732c10477d01311c</ais_search_source>
+        <ais_search_source display_value="E-Wallet Request by Managers">74d196d3c3675210732c10477d01311c</ais_search_source>
         <label>E-Wallet Request by Managers</label>
         <name>E-Wallet Request by Managers</name>
         <order>100</order>
