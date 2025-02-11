@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="e_wallet_balance" label="E-Wallet Balance" language="en" table="x_1092972_corporat_employee">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>e_wallet_balance</element>
+            <help/>
+            <hint/>
+            <label>E-Wallet Balance</label>
+            <language>en</language>
+            <name>x_1092972_corporat_employee</name>
+            <plural>E-Wallet Balances</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-02-06 00:22:24</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>E-Wallet Balance</sys_name>
+            <sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope>
+            <sys_update_name>sys_documentation_x_1092972_corporat_employee_e_wallet_balance_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-02-06 00:22:24</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
