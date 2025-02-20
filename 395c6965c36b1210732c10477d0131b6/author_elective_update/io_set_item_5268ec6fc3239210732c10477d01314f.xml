@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="DELETE">
+        <order>100</order>
+        <sc_cat_item display_value="E-Voucher Request">5f7e9863c3239210732c10477d0131b8</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-12 00:13:53</sys_created_on>
+        <sys_id>5268ec6fc3239210732c10477d01314f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Requested By .E-Voucher Request</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope>
+        <sys_update_name>io_set_item_5268ec6fc3239210732c10477d01314f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-12 00:13:53</sys_updated_on>
+        <variable_set display_value="Requested By ">0858acafc3239210732c10477d013165</variable_set>
+    </io_set_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</application>
+        <file_path/>
+        <instance_id>59cc7715dbc58654ebdd2a5913961949</instance_id>
+        <instance_name>dev244916</instance_name>
+        <name>io_set_item_5268ec6fc3239210732c10477d01314f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item"><io_set_item action="INSERT_OR_UPDATE"><order>100</order><sc_cat_item display_value="E-Voucher Request">5f7e9863c3239210732c10477d0131b8</sc_cat_item><sys_class_name>io_set_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-12 00:13:53</sys_created_on><sys_id>5268ec6fc3239210732c10477d01314f</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Requested By .E-Voucher Request</sys_name><sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package><sys_policy/><sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope><sys_update_name>io_set_item_5268ec6fc3239210732c10477d01314f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-12 00:13:53</sys_updated_on><variable_set display_value="Requested By ">0858acafc3239210732c10477d013165</variable_set></io_set_item></record_update>]]></payload>
+        <payload_hash>985616241</payload_hash>
+        <record_name>Requested By .E-Voucher Request</record_name>
+        <reverted_from/>
+        <source>a1668397c36b5210732c10477d01317f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-12 00:13:54</sys_created_on>
+        <sys_id>266820efc3239210732c10477d0131e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>194f7814e610000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-12 00:13:54</sys_updated_on>
+        <type>Catalog Variable Set</type>
+        <update_guid>2a6820ef422392109006108c3e964ae8</update_guid>
+        <update_guid_history>2a6820ef422392109006108c3e964ae8:985616241</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Requested By .E-Voucher Request">8a728727c3631210732c10477d013144</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-12 11:26:58</sys_created_on>
+        <sys_db_object display_value="" name="io_set_item">io_set_item</sys_db_object>
+        <sys_id>10c43707162a485e83e09445dfff63e4</sys_id>
+        <sys_metadata>5268ec6fc3239210732c10477d01314f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requested By .E-Voucher Request</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope>
+        <sys_scope_delete display_value="">308a682f087f4a73915c51ab438a5329</sys_scope_delete>
+        <sys_update_name>io_set_item_5268ec6fc3239210732c10477d01314f</sys_update_name>
+        <sys_update_version display_value="io_set_item_5268ec6fc3239210732c10477d01314f">266820efc3239210732c10477d0131e9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-12 11:26:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item/>
+        <catalog_variable>IO:895aa463c3639210732c10477d013136</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <order>200</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-12 12:06:26</sys_created_on>
+        <sys_id>356b0323c3a31210732c10477d01319d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e_voucher_type</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_356b0323c3a31210732c10477d01319d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-12 12:06:26</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Amazon (Visible only when E-Voucher Type is E-Commerce)">d83b43efc3631210732c10477d013193</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <variable>e_voucher_type</variable>
+        <variable_set display_value="E-Voucher Request">0858acafc3239210732c10477d013165</variable_set>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_translated_text action="DELETE" query="documentkey=356b0323c3a31210732c10477d01319d"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</application>
+        <file_path/>
+        <instance_id>59cc7715dbc58654ebdd2a5913961949</instance_id>
+        <instance_name>dev244916</instance_name>
+        <name>catalog_ui_policy_action_356b0323c3a31210732c10477d01319d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item/><catalog_variable>IO:895aa463c3639210732c10477d013136</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><field_message/><field_message_type>none</field_message_type><mandatory>ignore</mandatory><order>200</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-12 12:06:26</sys_created_on><sys_id>356b0323c3a31210732c10477d01319d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>e_voucher_type</sys_name><sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package><sys_policy/><sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope><sys_update_name>catalog_ui_policy_action_356b0323c3a31210732c10477d01319d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-12 12:06:26</sys_updated_on><table/><ui_policy display_value="Amazon (Visible only when E-Voucher Type is E-Commerce)">d83b43efc3631210732c10477d013193</ui_policy><value/><value_action>ignore</value_action><variable>e_voucher_type</variable><variable_set display_value="E-Voucher Request">0858acafc3239210732c10477d013165</variable_set><visible>true</visible></catalog_ui_policy_action><sys_translated_text action="delete_multiple" query="documentkey=356b0323c3a31210732c10477d01319d"/></record_update>]]></payload>
+        <payload_hash>-715405613</payload_hash>
+        <record_name>e_voucher_type</record_name>
+        <reverted_from/>
+        <source>a1668397c36b5210732c10477d01317f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-12 12:06:26</sys_created_on>
+        <sys_id>808b0323c3a31210732c10477d01315a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>194fa0da7c90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-12 12:06:26</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>848b032351a312100cee25294cc55759</update_guid>
+        <update_guid_history>848b032351a312100cee25294cc55759:-715405613</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="e_voucher_type">6f275fefc3a31210732c10477d01314b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-12 12:57:28</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>381a4d96f8f74a498d1de5933166fee9</sys_id>
+        <sys_metadata>356b0323c3a31210732c10477d01319d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e_voucher_type</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope>
+        <sys_scope_delete display_value="">308a682f087f4a73915c51ab438a5329</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_356b0323c3a31210732c10477d01319d</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_356b0323c3a31210732c10477d01319d">808b0323c3a31210732c10477d01315a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-12 12:57:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

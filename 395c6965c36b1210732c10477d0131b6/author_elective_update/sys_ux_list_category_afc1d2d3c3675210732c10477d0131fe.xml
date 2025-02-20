@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category">
+    <sys_ux_list_category action="DELETE">
+        <active>true</active>
+        <configuration display_value="Corporate Gifting_menu_config">1fc1d2d3c3675210732c10477d0131e0</configuration>
+        <description/>
+        <order>200</order>
+        <sys_class_name>sys_ux_list_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-11 13:15:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>afc1d2d3c3675210732c10477d0131fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Employee</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope>
+        <sys_update_name>sys_ux_list_category_afc1d2d3c3675210732c10477d0131fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-11 13:15:52</sys_updated_on>
+        <title>Employee</title>
+    </sys_ux_list_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</application>
+        <file_path/>
+        <instance_id>59cc7715dbc58654ebdd2a5913961949</instance_id>
+        <instance_name>dev244916</instance_name>
+        <name>sys_ux_list_category_afc1d2d3c3675210732c10477d0131fe</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category"><sys_ux_list_category action="INSERT_OR_UPDATE"><active>true</active><configuration display_value="Corporate Gifting_menu_config">1fc1d2d3c3675210732c10477d0131e0</configuration><description/><order>200</order><sys_class_name>sys_ux_list_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-11 13:15:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>afc1d2d3c3675210732c10477d0131fe</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Employee</sys_name><sys_overrides/><sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package><sys_policy/><sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope><sys_update_name>sys_ux_list_category_afc1d2d3c3675210732c10477d0131fe</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-11 13:15:52</sys_updated_on><title>Employee</title></sys_ux_list_category></record_update>]]></payload>
+        <payload_hash>1064499786</payload_hash>
+        <record_name>Employee</record_name>
+        <reverted_from/>
+        <source>e36392d7c3675210732c10477d013116</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-11 13:23:20</sys_created_on>
+        <sys_id>b8839ad7c3675210732c10477d01313d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>194f52db3230000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-11 13:23:20</sys_updated_on>
+        <type>UX List Category</type>
+        <update_guid>e7c116d3e06752101468cdc32abec10c</update_guid>
+        <update_guid_history>e7c116d3e06752101468cdc32abec10c:1064499786,ce03da57e66752103e626dfd470ecf5e:1428818878,e7c116d3e06752101468cdc32abec10c:1064499786</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-18 18:05:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_list_category">sys_ux_list_category</sys_db_object>
+        <sys_id>39e98595defd49998da9d6c6c47a8c11</sys_id>
+        <sys_metadata>afc1d2d3c3675210732c10477d0131fe</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Employee</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope>
+        <sys_scope_delete display_value="">308a682f087f4a73915c51ab438a5329</sys_scope_delete>
+        <sys_update_name>sys_ux_list_category_afc1d2d3c3675210732c10477d0131fe</sys_update_name>
+        <sys_update_version display_value="sys_ux_list_category_afc1d2d3c3675210732c10477d0131fe">b8839ad7c3675210732c10477d01313d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-18 18:05:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

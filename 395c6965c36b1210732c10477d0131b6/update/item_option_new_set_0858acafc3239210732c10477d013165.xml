@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
+    <item_option_new_set action="INSERT_OR_UPDATE">
+        <create_roles/>
+        <description/>
+        <display_title>false</display_title>
+        <internal_name>e_voucher_request</internal_name>
+        <layout>normal</layout>
+        <name/>
+        <order>100</order>
+        <read_roles/>
+        <set_attributes/>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-12 00:13:53</sys_created_on>
+        <sys_id>0858acafc3239210732c10477d013165</sys_id>
+        <sys_mod_count>85</sys_mod_count>
+        <sys_name>E-Voucher Request</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope>
+        <sys_update_name>item_option_new_set_0858acafc3239210732c10477d013165</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-02-18 17:59:15</sys_updated_on>
+        <title>E-Voucher Request</title>
+        <type>one_to_one</type>
+        <version>85</version>
+        <write_roles/>
+    </item_option_new_set>
+</record_update>

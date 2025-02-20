@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>globalSearchDataConfigId</name>
+        <page display_value="Corporate Gifting">46c192d3c36752108f06f48689711dca</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-11 13:15:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>06c192d3dc675210bf98df5c9fa646bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>globalSearchDataConfigId</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope>
+        <sys_update_name>sys_ux_page_property_06c192d3dc675210bf98df5c9fa646bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-11 13:15:48</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1092972_corporat.46c192d3c36752108f06f48689711dca.root.globalSearchDataConfigId</unique_name>
+        <value>0ec192d3d5675210e56d28fe3c6455c2</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=06c192d3dc675210bf98df5c9fa646bb"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</application>
+        <file_path/>
+        <instance_id>59cc7715dbc58654ebdd2a5913961949</instance_id>
+        <instance_name>dev244916</instance_name>
+        <name>sys_ux_page_property_06c192d3dc675210bf98df5c9fa646bb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>globalSearchDataConfigId</name><page display_value="Corporate Gifting">46c192d3c36752108f06f48689711dca</page><required_translations>[]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-11 13:15:48</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>06c192d3dc675210bf98df5c9fa646bb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>globalSearchDataConfigId</sys_name><sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package><sys_policy/><sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope><sys_update_name>sys_ux_page_property_06c192d3dc675210bf98df5c9fa646bb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-11 13:15:48</sys_updated_on><type>string</type><unique_name>x_1092972_corporat.46c192d3c36752108f06f48689711dca.root.globalSearchDataConfigId</unique_name><value>0ec192d3d5675210e56d28fe3c6455c2</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=06c192d3dc675210bf98df5c9fa646bb"/></record_update>]]></payload>
+        <payload_hash>1257574027</payload_hash>
+        <record_name>globalSearchDataConfigId</record_name>
+        <reverted_from/>
+        <source>e36392d7c3675210732c10477d013116</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-11 13:23:21</sys_created_on>
+        <sys_id>49839ad7c3675210732c10477d013169</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>194f52db6ac0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-11 13:23:21</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>09839ad7fe675210701a7139cd2b7269</update_guid>
+        <update_guid_history>f103da571d675210690bb5904cc0f110:-15524865,7103da573d675210346d06852eb86101:1257574027</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-18 18:05:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>02c4ddc32b3349ef93037f08a86b5211</sys_id>
+        <sys_metadata>06c192d3dc675210bf98df5c9fa646bb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>globalSearchDataConfigId</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope>
+        <sys_scope_delete display_value="">308a682f087f4a73915c51ab438a5329</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_06c192d3dc675210bf98df5c9fa646bb</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_06c192d3dc675210bf98df5c9fa646bb">49839ad7c3675210732c10477d013169</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-18 18:05:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

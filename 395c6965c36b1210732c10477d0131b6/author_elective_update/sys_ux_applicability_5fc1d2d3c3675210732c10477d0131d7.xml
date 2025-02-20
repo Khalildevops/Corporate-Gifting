@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="DELETE">
+        <active>true</active>
+        <api_name>x_1092972_corporat.Audience for app corporate-gifting</api_name>
+        <description/>
+        <name>Audience for app corporate-gifting</name>
+        <role_names/>
+        <roles>052ba946c3e75210732c10477d01316e,8a8a2982c3e75210732c10477d01310e,cb41b14ec3e75210732c10477d013157,4b7be582c3e75210732c10477d0131d3,512ae506c3e75210732c10477d013197,42783d86c32b5210732c10477d0131b8</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-11 13:15:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5fc1d2d3c3675210732c10477d0131d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app corporate-gifting</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope>
+        <sys_update_name>sys_ux_applicability_5fc1d2d3c3675210732c10477d0131d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-11 13:15:52</sys_updated_on>
+    </sys_ux_applicability>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</application>
+        <file_path/>
+        <instance_id>59cc7715dbc58654ebdd2a5913961949</instance_id>
+        <instance_name>dev244916</instance_name>
+        <name>sys_ux_applicability_5fc1d2d3c3675210732c10477d0131d7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability"><sys_ux_applicability action="INSERT_OR_UPDATE"><active>true</active><api_name>x_1092972_corporat.Audience for app corporate-gifting</api_name><description/><name>Audience for app corporate-gifting</name><role_names/><roles>052ba946c3e75210732c10477d01316e,8a8a2982c3e75210732c10477d01310e,cb41b14ec3e75210732c10477d013157,4b7be582c3e75210732c10477d0131d3,512ae506c3e75210732c10477d013197,42783d86c32b5210732c10477d0131b8</roles><sys_class_name>sys_ux_applicability</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-11 13:15:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5fc1d2d3c3675210732c10477d0131d7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Audience for app corporate-gifting</sys_name><sys_overrides/><sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package><sys_policy/><sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope><sys_update_name>sys_ux_applicability_5fc1d2d3c3675210732c10477d0131d7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-11 13:15:52</sys_updated_on></sys_ux_applicability></record_update>]]></payload>
+        <payload_hash>-1751958301</payload_hash>
+        <record_name>Audience for app corporate-gifting</record_name>
+        <reverted_from/>
+        <source>e36392d7c3675210732c10477d013116</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-11 13:23:19</sys_created_on>
+        <sys_id>e4835ad7c3675210732c10477d0131e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>194f52daf5c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-11 13:23:19</sys_updated_on>
+        <type>Audience</type>
+        <update_guid>93c1d2d31867521027cfd22e6a7cecdb</update_guid>
+        <update_guid_history>93c1d2d31867521027cfd22e6a7cecdb:-1751958301,4a03da573467521081bfc6dd398eb37e:107019095,93c1d2d31867521027cfd22e6a7cecdb:-1751958301</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-18 18:05:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_applicability">sys_ux_applicability</sys_db_object>
+        <sys_id>436b014af29c4fc893c9a3df1c4c7ba4</sys_id>
+        <sys_metadata>5fc1d2d3c3675210732c10477d0131d7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app corporate-gifting</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope>
+        <sys_scope_delete display_value="">308a682f087f4a73915c51ab438a5329</sys_scope_delete>
+        <sys_update_name>sys_ux_applicability_5fc1d2d3c3675210732c10477d0131d7</sys_update_name>
+        <sys_update_version display_value="sys_ux_applicability_5fc1d2d3c3675210732c10477d0131d7">e4835ad7c3675210732c10477d0131e3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-18 18:05:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

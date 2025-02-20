@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>0ac192d354675210524a53ac422bf8c9</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>corporate-gifting</path>
+        <root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-11 13:15:48</sys_created_on>
+        <sys_id>46c192d3c36752108f06f48689711dca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Corporate Gifting</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope>
+        <sys_update_name>sys_ux_page_registry_46c192d3c36752108f06f48689711dca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-11 13:15:48</sys_updated_on>
+        <title>Corporate Gifting</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</application>
+        <file_path/>
+        <instance_id>59cc7715dbc58654ebdd2a5913961949</instance_id>
+        <instance_name>dev244916</instance_name>
+        <name>sys_ux_page_registry_46c192d3c36752108f06f48689711dca</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>0ac192d354675210524a53ac422bf8c9</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes/><page/><parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app><path>corporate-gifting</path><root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-11 13:15:48</sys_created_on><sys_id>46c192d3c36752108f06f48689711dca</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Corporate Gifting</sys_name><sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package><sys_policy/><sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope><sys_update_name>sys_ux_page_registry_46c192d3c36752108f06f48689711dca</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-11 13:15:48</sys_updated_on><title>Corporate Gifting</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>-1728602743</payload_hash>
+        <record_name>Corporate Gifting</record_name>
+        <reverted_from/>
+        <source>e36392d7c3675210732c10477d013116</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-11 13:23:21</sys_created_on>
+        <sys_id>c5839ad7c3675210732c10477d01318c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>194f52db8430000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-11 13:23:21</sys_updated_on>
+        <type>UX Application</type>
+        <update_guid>85839ad76c675210e4172d9ac5406b8c</update_guid>
+        <update_guid_history>ee031e57956752107cc1a11bb6a69b30:-1216220011,5603da572467521059c7cfe349089db7:-1728602743</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-18 18:05:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>17024aa965a04050883c126774079a41</sys_id>
+        <sys_metadata>46c192d3c36752108f06f48689711dca</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Corporate Gifting</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope>
+        <sys_scope_delete display_value="">308a682f087f4a73915c51ab438a5329</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_46c192d3c36752108f06f48689711dca</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_46c192d3c36752108f06f48689711dca">c5839ad7c3675210732c10477d01318c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-18 18:05:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

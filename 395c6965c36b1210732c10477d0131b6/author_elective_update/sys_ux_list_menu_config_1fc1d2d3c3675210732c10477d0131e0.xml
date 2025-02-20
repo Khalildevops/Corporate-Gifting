@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_list_menu_config">
+    <sys_ux_list_menu_config action="DELETE">
+        <active>true</active>
+        <description/>
+        <name>Corporate Gifting_menu_config</name>
+        <sys_class_name>sys_ux_list_menu_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-11 13:15:52</sys_created_on>
+        <sys_id>1fc1d2d3c3675210732c10477d0131e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Corporate Gifting_menu_config</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope>
+        <sys_update_name>sys_ux_list_menu_config_1fc1d2d3c3675210732c10477d0131e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-11 13:15:52</sys_updated_on>
+    </sys_ux_list_menu_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</application>
+        <file_path/>
+        <instance_id>59cc7715dbc58654ebdd2a5913961949</instance_id>
+        <instance_name>dev244916</instance_name>
+        <name>sys_ux_list_menu_config_1fc1d2d3c3675210732c10477d0131e0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_list_menu_config"><sys_ux_list_menu_config action="INSERT_OR_UPDATE"><active>true</active><description/><name>Corporate Gifting_menu_config</name><sys_class_name>sys_ux_list_menu_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-11 13:15:52</sys_created_on><sys_id>1fc1d2d3c3675210732c10477d0131e0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Corporate Gifting_menu_config</sys_name><sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package><sys_policy/><sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope><sys_update_name>sys_ux_list_menu_config_1fc1d2d3c3675210732c10477d0131e0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-11 13:15:52</sys_updated_on></sys_ux_list_menu_config></record_update>]]></payload>
+        <payload_hash>-1708418662</payload_hash>
+        <record_name>Corporate Gifting_menu_config</record_name>
+        <reverted_from/>
+        <source>e36392d7c3675210732c10477d013116</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-11 13:23:20</sys_created_on>
+        <sys_id>f8839ad7c3675210732c10477d01314d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>194f52db35e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-11 13:23:20</sys_updated_on>
+        <type>UX List Menu Configuration</type>
+        <update_guid>17c1d2d3fc67521059b9872e14b65ee2</update_guid>
+        <update_guid_history>17c1d2d3fc67521059b9872e14b65ee2:-1708418662,4203da5763675210889e6449f2a5b867:733203854,17c1d2d3fc67521059b9872e14b65ee2:-1708418662</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-18 18:05:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_list_menu_config">sys_ux_list_menu_config</sys_db_object>
+        <sys_id>24c81e94b64641f88d13e97036013484</sys_id>
+        <sys_metadata>1fc1d2d3c3675210732c10477d0131e0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Corporate Gifting_menu_config</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope>
+        <sys_scope_delete display_value="">308a682f087f4a73915c51ab438a5329</sys_scope_delete>
+        <sys_update_name>sys_ux_list_menu_config_1fc1d2d3c3675210732c10477d0131e0</sys_update_name>
+        <sys_update_version display_value="sys_ux_list_menu_config_1fc1d2d3c3675210732c10477d0131e0">f8839ad7c3675210732c10477d01314d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-18 18:05:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

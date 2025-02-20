@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item/>
+        <catalog_variable>IO:9223c367c3631210732c10477d013194</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <order>200</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-12 12:54:00</sys_created_on>
+        <sys_id>ae461b2fc3a31210732c10477d0131f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e_voucher_brand</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_ae461b2fc3a31210732c10477d0131f1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-12 12:54:00</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Myntra (Visible only when E-Voucher Type is E-Commerce)">1aab8befc3631210732c10477d013114</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <variable>e_voucher_brand</variable>
+        <variable_set display_value="E-Voucher Request">0858acafc3239210732c10477d013165</variable_set>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_translated_text action="DELETE" query="documentkey=ae461b2fc3a31210732c10477d0131f1"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</application>
+        <file_path/>
+        <instance_id>59cc7715dbc58654ebdd2a5913961949</instance_id>
+        <instance_name>dev244916</instance_name>
+        <name>catalog_ui_policy_action_ae461b2fc3a31210732c10477d0131f1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item/><catalog_variable>IO:9223c367c3631210732c10477d013194</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><field_message/><field_message_type>none</field_message_type><mandatory>ignore</mandatory><order>200</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-12 12:54:00</sys_created_on><sys_id>ae461b2fc3a31210732c10477d0131f1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>e_voucher_brand</sys_name><sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package><sys_policy/><sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope><sys_update_name>catalog_ui_policy_action_ae461b2fc3a31210732c10477d0131f1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-12 12:54:00</sys_updated_on><table/><ui_policy display_value="Myntra (Visible only when E-Voucher Type is E-Commerce)">1aab8befc3631210732c10477d013114</ui_policy><value/><value_action>ignore</value_action><variable>e_voucher_brand</variable><variable_set display_value="E-Voucher Request">0858acafc3239210732c10477d013165</variable_set><visible>true</visible></catalog_ui_policy_action><sys_translated_text action="delete_multiple" query="documentkey=ae461b2fc3a31210732c10477d0131f1"/></record_update>]]></payload>
+        <payload_hash>570079898</payload_hash>
+        <record_name>e_voucher_brand</record_name>
+        <reverted_from/>
+        <source>a1668397c36b5210732c10477d01317f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-12 12:54:00</sys_created_on>
+        <sys_id>bc661fafc3a31210732c10477d013137</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>194fa3933d80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-12 12:54:00</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>b0661faf81a31210e8f3f7f900d78a37</update_guid>
+        <update_guid_history>b0661faf81a31210e8f3f7f900d78a37:570079898</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="e_voucher_brand">a4075befc3a31210732c10477d01310e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-12 12:56:42</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>2164899fdd8a43388d84a8a6b0a52da4</sys_id>
+        <sys_metadata>ae461b2fc3a31210732c10477d0131f1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e_voucher_brand</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope>
+        <sys_scope_delete display_value="">308a682f087f4a73915c51ab438a5329</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_ae461b2fc3a31210732c10477d0131f1</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_ae461b2fc3a31210732c10477d0131f1">bc661fafc3a31210732c10477d013137</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-12 12:56:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

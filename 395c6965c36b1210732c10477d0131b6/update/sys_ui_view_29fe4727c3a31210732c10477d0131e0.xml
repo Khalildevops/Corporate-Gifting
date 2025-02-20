@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>catalog_e_voucher_request</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-12 12:21:33</sys_created_on>
+        <sys_id>29fe4727c3a31210732c10477d0131e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>E_Voucher_Request View</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope>
+        <sys_update_name>sys_ui_view_29fe4727c3a31210732c10477d0131e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-12 12:21:33</sys_updated_on>
+        <title>E_Voucher_Request View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

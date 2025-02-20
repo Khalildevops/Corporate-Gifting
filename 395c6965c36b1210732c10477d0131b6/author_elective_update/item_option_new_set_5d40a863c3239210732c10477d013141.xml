@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
+    <item_option_new_set action="DELETE">
+        <create_roles/>
+        <description/>
+        <display_title>true</display_title>
+        <internal_name>requested_by</internal_name>
+        <layout>normal</layout>
+        <name/>
+        <order>100</order>
+        <read_roles/>
+        <set_attributes/>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-11 23:38:50</sys_created_on>
+        <sys_id>5d40a863c3239210732c10477d013141</sys_id>
+        <sys_mod_count>15</sys_mod_count>
+        <sys_name>Requested By</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope>
+        <sys_update_name>item_option_new_set_5d40a863c3239210732c10477d013141</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-02-11 23:57:27</sys_updated_on>
+        <title>Requested By</title>
+        <type>one_to_one</type>
+        <version>15</version>
+        <write_roles/>
+    </item_option_new_set>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</application>
+        <file_path/>
+        <instance_id>59cc7715dbc58654ebdd2a5913961949</instance_id>
+        <instance_name>dev244916</instance_name>
+        <name>item_option_new_set_5d40a863c3239210732c10477d013141</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set"><item_option_new_set action="INSERT_OR_UPDATE"><create_roles/><description/><display_title>true</display_title><internal_name>requested_by</internal_name><layout>normal</layout><name/><order>100</order><read_roles/><set_attributes/><sys_class_name>item_option_new_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-11 23:38:50</sys_created_on><sys_id>5d40a863c3239210732c10477d013141</sys_id><sys_mod_count>15</sys_mod_count><sys_name>Requested By</sys_name><sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package><sys_policy/><sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope><sys_update_name>item_option_new_set_5d40a863c3239210732c10477d013141</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2025-02-11 23:57:27</sys_updated_on><title>Requested By</title><type>one_to_one</type><version>15</version><write_roles/></item_option_new_set></record_update>]]></payload>
+        <payload_hash>597543675</payload_hash>
+        <record_name>Requested By</record_name>
+        <reverted_from/>
+        <source>a1668397c36b5210732c10477d01317f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2025-02-11 23:57:27</sys_created_on>
+        <sys_id>a9a4286bc3239210732c10477d013157</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>194f77240290000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-02-11 23:57:27</sys_updated_on>
+        <type>Variable Set</type>
+        <update_guid>eda4286bb42392104f66542999596a56</update_guid>
+        <update_guid_history>eda4286bb42392104f66542999596a56:597543675,778420ab402392101aa5aa8c9479211f:806241978,c4746c6b93239210d7180203899940a9:1014940281,5124e46b75239210e7acc95e8cfb2927:1223638584,6be3602b56239210f4519cea17a98f1b:1432336887,5133242b332392104cb6e6db8db5da06:1641035190,5713602b7723921081bdb3f3577ca165:653487616,c5f2202b6f23921026b11ecd25f76d25:862185919,74e220a7ea23921013766bf41d566d60:1070884222,ffc22ce740239210b14d3d9387466fa7:1279582525,f282ec67a62392105617ad89588cd431:1488280828,09b1a4a7e9239210713b17521a26c12a:1696979131,2b11e4670f23921068b4cce318963590:890987870,5001a827c42392101349f6fe521b624c:1099686173,f3806827c223921012de2663e364c1cd:-1971893256,30606c63c52392102a4dbbc088752cb5:-1902836965</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Requested By">001868afc3239210732c10477d0131af</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2025-02-12 00:12:22</sys_created_on>
+        <sys_db_object display_value="" name="item_option_new_set">item_option_new_set</sys_db_object>
+        <sys_id>385136217bf64b44a4377e89d22fd990</sys_id>
+        <sys_metadata>5d40a863c3239210732c10477d013141</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requested By</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope>
+        <sys_scope_delete display_value="">308a682f087f4a73915c51ab438a5329</sys_scope_delete>
+        <sys_update_name>item_option_new_set_5d40a863c3239210732c10477d013141</sys_update_name>
+        <sys_update_version display_value="item_option_new_set_5d40a863c3239210732c10477d013141">a9a4286bc3239210732c10477d013157</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-02-12 00:12:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

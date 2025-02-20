@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="E-Voucher Request">5f7e9863c3239210732c10477d0131b8</sc_cat_item>
+        <sc_category display_value="Corporate Policies/Benefits">4e8fd0e3c3239210732c10477d013126</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-11 23:37:24</sys_created_on>
+        <sys_id>b3006ce3c3239210732c10477d013166</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Corporate Policies/Benefits.E-Voucher Request</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope>
+        <sys_update_name>sc_cat_item_category_b3006ce3c3239210732c10477d013166</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-11 23:37:24</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</application>
+        <file_path/>
+        <instance_id>59cc7715dbc58654ebdd2a5913961949</instance_id>
+        <instance_name>dev244916</instance_name>
+        <name>sc_cat_item_category_b3006ce3c3239210732c10477d013166</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="E-Voucher Request">5f7e9863c3239210732c10477d0131b8</sc_cat_item><sc_category display_value="Corporate Policies/Benefits">4e8fd0e3c3239210732c10477d013126</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-11 23:37:24</sys_created_on><sys_id>b3006ce3c3239210732c10477d013166</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Corporate Policies/Benefits.E-Voucher Request</sys_name><sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package><sys_policy/><sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope><sys_update_name>sc_cat_item_category_b3006ce3c3239210732c10477d013166</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-11 23:37:24</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1082825593</payload_hash>
+        <record_name>Corporate Policies/Benefits.E-Voucher Request</record_name>
+        <reverted_from/>
+        <source>a1668397c36b5210732c10477d01317f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-11 23:37:24</sys_created_on>
+        <sys_id>77006ce3c3239210732c10477d01316a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>194f75fe3c10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-11 23:37:24</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>7b006ce3d2239210c129faeab5de7469</update_guid>
+        <update_guid_history>7b006ce3d2239210c129faeab5de7469:1082825593</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Corporate Policies/Benefits.E-Voucher Request">b1728727c3631210732c10477d01310f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-12 11:26:57</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>1744452c785643a088c884755c16c990</sys_id>
+        <sys_metadata>b3006ce3c3239210732c10477d013166</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Corporate Policies/Benefits.E-Voucher Request</sys_name>
+        <sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope>
+        <sys_scope_delete display_value="">308a682f087f4a73915c51ab438a5329</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_b3006ce3c3239210732c10477d013166</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_b3006ce3c3239210732c10477d013166">77006ce3c3239210732c10477d01316a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-12 11:26:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

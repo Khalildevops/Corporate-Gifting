@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="catalog_script_client">
+    <catalog_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_catalog>true</applies_catalog>
+        <applies_extended>false</applies_extended>
+        <applies_req_item>true</applies_req_item>
+        <applies_sc_task>false</applies_sc_task>
+        <applies_target_record>false</applies_target_record>
+        <applies_to>set</applies_to>
+        <cat_item/>
+        <cat_variable/>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name/>
+        <order/>
+        <published_ref/>
+        <script><![CDATA[	function onChange(control, oldValue, newValue, isLoading) {
+    if (isLoading || newValue == '') {
+        g_form.clearOptions('u_e_voucher_brand');
+        g_form.addOption('u_e_voucher_brand', 'u_flip', 'Flipkart', '1');
+        g_form.addOption('u_e_voucher_brand', 'u_amazon', 'Amazon', '2');
+        g_form.addOption('u_e_voucher_brand', 'u_myntra', 'Myntra', '3');
+        g_form.clearOptions('u_e_voucher_amount');
+        g_form.addOption('u_e_voucher_amount', '200', '200', '1');
+        g_form.addOption('u_e_voucher_amount', '250', '250', '2');
+        g_form.addOption('u_e_voucher_amount', '500', '500', '3');
+        g_form.addOption('u_e_voucher_amount', '1000', '1000', '4');
+        return;
+    }
+    if (newValue == 'u_e_commerce') {
+        g_form.clearOptions('u_e_voucher_brand');
+        g_form.addOption('u_e_voucher_brand', 'u_flip', 'Flipkart', '1');
+        g_form.addOption('u_e_voucher_brand', 'u_amazon', 'Amazon', '2');
+        g_form.addOption('u_e_voucher_brand', 'u_myntra', 'Myntra', '3');
+        g_form.clearOptions('u_e_voucher_amount');
+        g_form.addOption('u_e_voucher_amount', '200', '200', '1');
+        g_form.addOption('u_e_voucher_amount', '250', '250', '2');
+        g_form.addOption('u_e_voucher_amount', '500', '500', '3');
+        g_form.addOption('u_e_voucher_amount', '1000', '1000', '4');
+
+    } else if (newValue == 'u_shopping') {
+        g_form.clearOptions('u_e_voucher_brand');
+        g_form.addOption('u_e_voucher_brand', 'u_lifestyle', 'Lifestyle', '1');
+        g_form.addOption('u_e_voucher_brand', 'u_allen', 'Allen Solly', '2');
+        g_form.clearOptions('u_e_voucher_amount');
+        g_form.addOption('u_e_voucher_amount', '250', '250', '1');
+        g_form.addOption('u_e_voucher_amount', '400', '400', '2');
+        g_form.addOption('u_e_voucher_amount', '500', '500', '3');
+        g_form.addOption('u_e_voucher_amount', '1000', '1000', '4');
+
+
+    } else if (newValue == 'u_food') {
+        g_form.clearOptions('u_e_voucher_brand');
+        g_form.addOption('u_e_voucher_brand', 'u_zomata', 'Zomato', '1');
+        g_form.addOption('u_e_voucher_brand', 'u_swiggy', 'Swiggy', '2');
+        g_form.clearOptions('u_e_voucher_amount');
+        g_form.addOption('u_e_voucher_amount', '100', '100', '1');
+        g_form.addOption('u_e_voucher_amount', '200', '200', '2');
+        g_form.addOption('u_e_voucher_amount', '400', '400', '3');
+        g_form.addOption('u_e_voucher_amount', '1000', '1000', '4');
+
+    } else if (newValue == 'u_sports') {
+        g_form.clearOptions('u_e_voucher_brand');
+        g_form.addOption('u_e_voucher_brand', 'u_puma', 'Puma', '1');
+        g_form.addOption('u_e_voucher_brand', 'u_addidas', 'Addidas', '2');
+        g_form.addOption('u_e_voucher_brand', 'u_nike', 'Nike', '3');
+        g_form.clearOptions('u_e_voucher_amount');
+        g_form.addOption('u_e_voucher_amount', '250', '250', '1');
+        g_form.addOption('u_e_voucher_amount', '500', '500', '2');
+        g_form.addOption('u_e_voucher_amount', '750', '750', '3');
+        g_form.addOption('u_e_voucher_amount', '1000', '1000', '4');
+    }
+	}]]></script>
+        <sys_class_name>catalog_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-12 13:20:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bb0c97a7c3e31210732c10477d01317f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Corporate Gifting" source="x_1092972_corporat">395c6965c36b1210732c10477d0131b6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Corporate Gifting">395c6965c36b1210732c10477d0131b6</sys_scope>
+        <sys_update_name>catalog_script_client_bb0c97a7c3e31210732c10477d01317f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-12 13:24:31</sys_updated_on>
+        <table/>
+        <type/>
+        <ui_type>0</ui_type>
+        <va_supported>true</va_supported>
+        <variable_set/>
+        <view/>
+    </catalog_script_client>
+    <sys_es_latest_script action="INSERT_OR_UPDATE">
+        <id>bb0c97a7c3e31210732c10477d01317f</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-12 13:20:35</sys_created_on>
+        <sys_id>567c97a7c3e31210732c10477d0131ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-12 13:20:35</sys_updated_on>
+        <table>catalog_script_client</table>
+        <use_es_latest>false</use_es_latest>
+    </sys_es_latest_script>
+</record_update>
